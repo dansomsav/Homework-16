@@ -1,3 +1,4 @@
+//RANDOM NOTE FOR GITHUB UPDATE!
 let myHouse;
 
 function setup() {
